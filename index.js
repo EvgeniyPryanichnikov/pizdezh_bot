@@ -77,7 +77,7 @@ bot.on('message', (msg) => {
   if (text.includes('заебись') || text.includes('охуенно') || text.includes('ахуенно') || text.includes('ахуенно') || text.includes('хуен') ) {
    
     setTimeout(() => {
-      bot.sendMessage(chatId, `бля, бесспорно ЗАЕБИСЬ`);
+      bot.sendMessage(chatId, `бля, бесспорно ЗАЕБИСЬ888888`);
     }, 1000);
   }
 
